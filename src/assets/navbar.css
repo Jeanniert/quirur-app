@@ -1,0 +1,13 @@
+
+.navbar {
+  margin-bottom: 40px;
+  background-color: lightgreen;
+}
+main > .container {
+  padding: 110px ;
+}
+
+.footer{
+  background-color: lightgreen;
+}
+
